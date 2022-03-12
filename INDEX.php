@@ -1,7 +1,4 @@
 <?php 
 
-echo " my would <strong> Lucas </strong>";
-
-
-
+echo " y would <strong> Lucas </strong>"
  
